@@ -1,0 +1,50 @@
+<web-app>
+	<!-- Liste des réponses -->
+	<response>
+		<response-name>mediateur</response-name>
+		<type>xml</type>
+		<file>/src/main/resources/responses/mediateur.xml</file>
+	</response>
+	<response>
+		<response-name>oai-bam</response-name>
+		<type>xml</type>
+		<file>/src/main/resources/responses/oai-bam.xml</file>
+	</response>
+	<response>
+		<response-name>oai</response-name>
+		<type>xml</type>
+		<file>/src/main/resources/responses/oai.xml</file>
+	</response>
+	<response>
+		<response-name>exemplarisation-ok</response-name>
+		<type>soap</type>
+		<file>/src/main/resources/responses/exemplarisation-ok.xml</file>
+	</response>
+	<response>
+		<response-name>exemplarisation-ko</response-name>
+		<type>soap</type>
+		<file>/src/main/resources/responses/exemplarisation-ko.xml</file>
+	</response>
+		
+	<!-- Liste des mappings -->
+    <response-mapping>
+        <response-name>mediateur</response-name>
+        <url-pattern>/mediateur</url-pattern>
+    </response-mapping>
+    <response-mapping>
+        <response-name>oai-bam</response-name>
+        <url-pattern>/oai-bam</url-pattern>
+    </response-mapping>
+    <response-mapping>
+        <response-name>oai</response-name>
+        <url-pattern>/oai</url-pattern>
+    </response-mapping>
+    <response-mapping>
+        <response-name>exemplarisation-ok</response-name>
+        <url-pattern>/exemplarisation-ok</url-pattern>
+    </response-mapping>
+    <response-mapping>
+        <response-name>exemplarisation-ko</response-name>
+        <url-pattern>/exemplarisation-ko</url-pattern>
+    </response-mapping>
+</web-app>

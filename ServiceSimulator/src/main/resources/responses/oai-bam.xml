@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.024" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+	<visibility_rights>all</visibility_rights>
+	<notice>
+		<record>
+			<header>
+				<identifier>oai:bnf.fr:gallica/ark:/12148/btv1b52506108c</identifier>
+				<datestamp>2019-02-22</datestamp>
+				<setSpec>gallica:typedoc:manuscrits</setSpec>
+			</header>
+			<metadata>
+				<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+					<dc:identifier>https://pfcgallicaintramuros.bnf.fr/ark:/12148/btv1b52506108c</dc:identifier>
+					<dc:title>Mystère de saint Laurent</dc:title>
+					<dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc998192</dc:relation>
+					<dc:description>Numérisation effectuée à partir d'un document original.</dc:description>
+					<dc:description>Incomplet du commencement. — A la fin, mention de la copie de ce ms. par Yves David, en 1772 ; puis, F.86 : « Cestte cahier de la vie de saint Lorant apartien à moy Yves David de Langoat, ce jour le 13 8bre 1773. ».</dc:description>
+					<dc:format>86 f. - 290 sur 175 mm. - Papier. - Demi-reliure</dc:format>
+					<dc:source>Bibliothèque nationale de France. Département des manuscrits. Celtique et basque 21</dc:source>
+					<dc:rights xml:lang="fre">domaine public</dc:rights>
+					<dc:rights xml:lang="eng">public domain</dc:rights>
+					<dc:date>1701-1800</dc:date>
+					<dc:language>bre</dc:language>
+					<dc:type xml:lang="eng">manuscript</dc:type>
+					<dc:type xml:lang="fre">manuscrit</dc:type>
+				</oai_dc:dc>
+			</metadata>
+		</record>
+	</notice>
+	<provenance>bnf.fr</provenance>
+	<source>Bibliothèque nationale de France. Département des manuscrits. Celtique et basque 21</source>
+	<typedoc>manuscrit</typedoc>
+	<nqamoyen>0.0</nqamoyen>
+	<title>Mystère de saint Laurent</title>
+	<date nbIssue="1">1701-1800</date>
+	<first_indexation_date>27/02/2019</first_indexation_date>
+</results>
